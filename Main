@@ -27,6 +27,7 @@ git clone https://github.com/conduitxyz/node.git
 
 cd node
 
+
 ./download-config.py zora-mainnet-0
 
 
@@ -38,8 +39,6 @@ nano .env
 
 
 screen -S log
-
-
 docker compose up --build
 
 
