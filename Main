@@ -1,4 +1,4 @@
-#Zora_node
+#Zora node
 
 
 sudo apt-get update && sudo apt-get upgrade -y
