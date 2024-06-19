@@ -39,6 +39,8 @@ nano .env
 
 
 screen -S log
+
+
 docker compose up --build
 
 
