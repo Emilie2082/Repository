@@ -35,7 +35,7 @@ cp .env.example .env
 nano .env
 
 
-screen -S log
+screen -S logs
 
 
 docker compose up --build
